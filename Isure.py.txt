@@ -1,0 +1,6 @@
+x 0 = 'nig'
+f = 44
+ssh = f ** x
+d = 48 
+sandi = 47
+	while
