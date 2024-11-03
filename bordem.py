@@ -1,6 +1,5 @@
-'''
-All the lessons will be seperatly defines as a function.
-'''
+
+# All the lessons will be seperatly defines as a function.
 def FloorCNV():
   Naieve = input('how to put them floors')
   NotNaieve = int(Naieve) + 1
